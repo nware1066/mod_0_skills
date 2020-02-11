@@ -1,0 +1,17 @@
+seating chart is a class that might exist in a restaurant
+
+number-of-tables (integer)
+
+reserved (boolean)
+
+assigned-server (string)
+
+table-decoration (array)
+
+outdoor-seating method will increase number-of-tables by 8
+
+confirmed method will change reserved method to true
+
+change-server method will change the assigned-server string
+
+formal-dinner method will change the values in the table-decoration array
