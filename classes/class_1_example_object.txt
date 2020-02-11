@@ -1,0 +1,17 @@
+fruit compote is an object in the dessert class
+
+portion-size = 6
+
+gluten-free = true
+
+production-cost = 4
+
+ingredients =  ["cherry", "tapioca", "sugar"]
+
+calling child-size method reduces the portion-size by 2
+
+calling the add-struesel method changes gluten-free to false
+
+using store-brand method changes production cost to 3
+
+using new-recipe method adds "nutmeg" to ingredients
