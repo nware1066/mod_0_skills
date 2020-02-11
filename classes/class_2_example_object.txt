@@ -1,0 +1,15 @@
+birthday party is an example of a seating chart class
+
+number-of-tables is 5
+
+reserved is false
+
+assigned server is "Andy"
+
+table-decoration is ["balloons", "funny hats" "streamers"]
+
+outdoor-seating method will change number-of-tables to 13
+
+confirm method will change reserved to true
+
+change-server method will change assigned-server from "Andy" to "Jo"
