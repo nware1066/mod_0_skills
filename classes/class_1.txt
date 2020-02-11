@@ -1,0 +1,21 @@
+dessert is a class that might exist in a restaurant
+
+attributes for dessert
+
+portion-size (integer)
+
+gluten-free (boolean)
+
+production-cost (integer)
+
+ingredients (string)
+
+methods for dessert attribute might include:
+
+child-portion method (modifies the portion-size attribute by reducing the number of ounces)
+
+add-struesel method (changes gluten-free attribute to false)
+
+use-store-brand method (reduces production-cost attribute)
+
+new-recipe method (changes strings in ingredients attribute)
