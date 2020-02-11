@@ -1,0 +1,19 @@
+var food = "food is the best part of Thanksgiving"
+
+var is_new = true
+
+food = "we should have cooked the turkey longer"
+
+var num1 = 42
+
+var num2 = 2
+
+num1 * num2
+
+var num3 = 84
+
+var movies = ["Princess Bride", "Serenity", "Muppet Movie"]
+
+movies.slice(2)
+
+movies.length
