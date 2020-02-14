@@ -1,15 +1,23 @@
-birthday party is an example of a seating chart class
+Class = SeatingChart
 
-number-of-tables is 5
 
-reserved is false
+Instance = birthdayParty
 
-assigned server is "Andy"
+Attributes
+numberOfTables = 5
 
-table-decoration is ["balloons", "funny hats" "streamers"]
+reserved = false
 
-outdoor-seating method will change number-of-tables to 13
+assignedServer = "Andy"
 
-confirm method will change reserved to true
+tableDecoration = ["balloons", "funny hats" "streamers"]
 
-change-server method will change assigned-server from "Andy" to "Jo"
+
+Methods
+outdoorSeating: numberOfTables = 13
+
+confirm: reserved = true
+
+changeServer: assignedServer = "Jo"
+
+formalDinner = ["balloons", "streamers", "folded napkins"]
